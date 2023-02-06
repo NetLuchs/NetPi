@@ -1,5 +1,4 @@
 wpad.wgnet
-objectstorage.eu-frankfurt-1.oraclecloud.com
 saumeechoa.com
 smart-money-management.net
 ak.hetaint.com
@@ -58,12 +57,6 @@ p.1ts17.top
 xxupdatemovies.com
 maltunfaithfulpredominant.com
 februaryinjectionproudly.com
-ring.com
-kinesis.us-east-1.amazonaws.com	
-in.appcenter.ms
-scontent-dus1-1.xx.fbcdn.net
-scontent.xx.fbcdn.net
-video-dus1-1.xx.fbcdn.net
 asbc-01.de1.rbm.mavenir.com
 asbc-02.de1.rbm.mavenir.com
 asbc-03.de1.rbm.mavenir.com
@@ -86,5 +79,4 @@ beacons.gvt3.com
 beacons2.gvt3.com
 beacons3.gvt3.com
 beacons4.gvt3.com
-graph.facebook.com
 debug.opendns.com
